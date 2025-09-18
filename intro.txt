@@ -19,3 +19,5 @@ Kỹ năng:
 - Sử dụng Git cơ bản
 - Lập trình Python
 - Giao tiếp tiếng Anh
+Conflict resolved on 18/09/2025
+Conflict resolved on 18/09/2025
