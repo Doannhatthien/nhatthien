@@ -1,0 +1,7 @@
+Tính năng: Tự động gửi email báo cáo hàng tuần
+Chi tiết:
+- Mô tả chi tiết dòng 1
+- Mô tả chi tiết dòng 2
+- Mô tả chi tiết dòng 3
+- Mô tả chi tiết dòng 4
+- Mô tả chi tiết dòng 5
