@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Hello, this is Họ Tên
+=======
+Xin chào, tôi là Họ Tên
+>>>>>>> feature-update
 Giới thiệu bản thân:
 Tôi tên là Doãn Nhật Thiên, sinh viên ngành Công nghệ thông tin.
 Tôi thích khám phá công nghệ mới và học hỏi kỹ năng lập trình.
