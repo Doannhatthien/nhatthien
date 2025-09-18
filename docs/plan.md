@@ -1,0 +1,3 @@
+- Kế hoạch học tập trong 1 tuần...
+- Ghi chú ngày bắt đầu: 18/09/2025
+- Ghi chú ngày kết thúc: 25/09/2025
