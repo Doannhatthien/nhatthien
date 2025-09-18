@@ -15,3 +15,9 @@ Kỹ năng:
 - Sử dụng Git cơ bản
 - Lập trình Python
 - Giao tiếp tiếng Anh
+# Kế hoạch học tập
+- Nắm vững kiến thức cơ bản về Git.
+- Thực hành các lệnh Git hàng ngày.
+- Tham gia các dự án nhóm trên GitHub.
+- Tìm hiểu CI/CD với GitHub Actions.
+- Hoàn thành bài thi cuối kỳ.
