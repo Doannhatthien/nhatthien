@@ -1,3 +1,5 @@
 Tôi cảm thấy Git rất hữu ích trong quản lý phiên bản.
 Git giúp theo dõi thay đổi và làm việc nhóm hiệu quả.
 Ban đầu hơi khó nhưng dần quen sẽ rất mạnh mẽ.
+Dòng bổ sung 1: Git giúp quản lý branch.
+Dòng bổ sung 2: Rebase và merge có điểm khác nhau.
